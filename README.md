@@ -19,8 +19,8 @@ Kind of just tell into it. I like solving complex problems and technology, which
 ## FinTech Repo
 ### FinTech Repo
 
-[Data](../data)
+[Data](../bcizek_UW_FinTech/tree/main/data)
 
-[Code](../code)
+[Code](../bcizek_UW_FinTech/tree/main/code)
 
-[Reference](../reference)
+[Reference](../bcizek_UW_FinTech/tree/main/reference)
