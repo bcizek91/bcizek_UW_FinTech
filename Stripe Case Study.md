@@ -1,5 +1,5 @@
 # Case Study of Stripe, Inc, a digital payments provider
-![alt text](https://www.business.com/images/rz/5cd4675a9c658aa9678b458e/Stripe.png)
+![](https://www.business.com/images/rz/5cd4675a9c658aa9678b458e/Stripe.png)
 ## Overview and Origin
 ***
 **Name of company:**
